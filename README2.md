@@ -26,7 +26,7 @@ Sanal kart arayüzü barındıran ödeme ekranı ve tamamlanan işlemler sonras�
 
 ![6. Sanal Kart Ödeme ve Kiralama Onay Ekranı](ekran_goruntuleri/06_payment_screen.png)
 ![7. Geçmiş Kiralamalar](ekran_goruntuleri/07_rental_history.png)
-![7-2. PDF FaturaSekmesi](ekran_goruntuleri/07-2_rental_history.png)
+![7-2. PDF FaturaSekmesi](ekran_goruntuleri/07-2_fatura.png)
 
 6. Admin Paneli - Müşteri Yönetimi ve Kullanıcı Silme Ekranı
 Sistem yöneticisinin üyeleri izlediği ve yüksek güvenlikli yönetim sekmesi.
