@@ -1,4 +1,4 @@
-# 🚀 Python OOP & GUI Projeleri Portfolyom
+# 🚀 Python OOP & GUI Projeleri Portfolyoma Bakış
 
 ## 🚗 RentACar - Premium Araç Paylaşım ve Filo Yönetim Sistemi
 
