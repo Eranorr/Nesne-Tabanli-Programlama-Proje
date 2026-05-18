@@ -44,7 +44,7 @@ pip install Pillow transformers torch
 pip install reportlab geocoder matplotlib
 ```
 
-### 1. [🚗 RentACar - Ekran Görüntüleri](./README2.md)
+### 1. [🚗 RentACar - Ekran Görüntüleri](Araç_Kiralama_Sistemi/README.md)
 
 
 # 💪 FitTrack Pro - Premium Fitness ve Sağlık Takip Sistemi
