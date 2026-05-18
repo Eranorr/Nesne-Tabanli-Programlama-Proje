@@ -98,4 +98,4 @@ pip install PyQt5
 pip install matplotlib
 ```
 
-### 2. 💪 FitTrack Pro - Ekran Görüntüleri](./README2.md)
+### 2. 💪 FitTrack Pro - Ekran Görüntüleri](Fitness_Takip_Sistemi/README.md)
