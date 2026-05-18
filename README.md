@@ -49,7 +49,7 @@ pip install reportlab geocoder matplotlib
 
 # 💪 FitTrack Pro - Premium Fitness ve Sağlık Takip Sistemi
 
-![2.Fit Logo](Araç_Kiralama_Sistemi/rentacar.jpg)
+![2.Fit Logo](Fitness_Takip_Sistemi/logo.png)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyQt5](https://img.shields.io/badge/PyQt5-GUI-green.svg)
