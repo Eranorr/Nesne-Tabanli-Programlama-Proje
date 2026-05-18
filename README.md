@@ -2,7 +2,7 @@
 
 ## 🚗 RentACar - Premium Araç Paylaşım ve Filo Yönetim Sistemi
 
-![1.RentACar Logo](Araç Kiralama Sistemi/rentacar.png)
+![1.RentACar Logo](Araç_Kiralama_Sistemi/rentacar.png)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyQt5](https://img.shields.io/badge/PyQt5-GUI-green.svg)
