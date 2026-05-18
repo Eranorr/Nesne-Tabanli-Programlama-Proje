@@ -46,4 +46,4 @@ pip install Pillow transformers torch
 pip install reportlab geocoder matplotlib
 ```
 
-### 1. [🚗 RentACar - Araç Paylaşım Sistemi](./RentACar_Projesi)
+### 1. [🚗 RentACar - Araç Paylaşım Sistemi](./README2.md)
