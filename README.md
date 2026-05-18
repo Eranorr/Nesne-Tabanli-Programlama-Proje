@@ -97,3 +97,5 @@ pip install PyQt5
 # 2. Veri Analitiği ve Grafik Çizim Altyapısı
 pip install matplotlib
 ```
+
+### 2. 💪 FitTrack Pro - Ekran Görüntüleri](./README2.md)
