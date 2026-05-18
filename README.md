@@ -1,9 +1,5 @@
 # 🚀 Python OOP & GUI Projeleri Portfolyom
 
-Merhaba! Bu depoda, PyQt5 ve SQLite kullanarak geliştirdiğim, Nesneye Yönelik Programlama (OOP) prensiplerine tam uyumlu iki büyük masaüstü uygulaması bulunmaktadır.
-
----
-
 ## 🚗 RentACar - Premium Araç Paylaşım ve Filo Yönetim Sistemi
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
